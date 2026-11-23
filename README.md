@@ -19,6 +19,8 @@ Get the ultimate helper tool for Deadlock. Become a Heretic today!
 
 Heretic just got out of 6 months of coding, and I'm while I'm happy with the quality so far, there's still some ways to go.
 
+I've worked hard on making it not detected by Valve, so what's missing now is just more features and your opinions on what you'd like to see.
+
 Therefore, HERETICAL IS FREE TO USE until we got more users and worked out some kinks.
 
 **Create an account, join the Discord and download Heretical here!** - > **[Heretical.gg](https://heretical.gg/)**
@@ -27,6 +29,14 @@ Therefore, HERETICAL IS FREE TO USE until we got more users and worked out some 
 
 
 ## Demo Video
+
+Features, and more will be added over time
+
+- Aiming helper
+- Hero outlines
+- Auto parry
+- Auto counterspell
+- Boxes helper
 
 https://github.com/user-attachments/assets/5f01db82-9715-41c4-bb94-828891d0d6f3
 
