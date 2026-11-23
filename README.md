@@ -31,5 +31,3 @@ Therefore, HERETICAL IS FREE TO USE until we got more users and worked out some 
 https://github.com/user-attachments/assets/5f01db82-9715-41c4-bb94-828891d0d6f3
 
 **Create an account, join the Discord and download Heretical here!** - > **[Heretical.gg](https://heretical.gg/)**
-
-**Create an account, join the Discord and download Heretical here!** - > **[Heretical.gg](https://heretical.gg/)**
