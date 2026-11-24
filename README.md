@@ -2,8 +2,6 @@
 
 Get the ultimate helper tool for Deadlock. Become a Heretic today!
 
----
-
 ### Clean UI, right inside the game
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/30417360-4e78-44e4-ae8a-4704c3067ee7" />
 
